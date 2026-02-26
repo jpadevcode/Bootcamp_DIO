@@ -7,4 +7,4 @@
 
 ### 🔗 Link do Desafio
 
-Acesse AQIO, o Notebook da Atividade: https://notebooklm.google.com/notebook/a2e0938b-e1a5-45e4-9977-328283c3d310
+Acesse AQUI, o Notebook da Atividade: https://notebooklm.google.com/notebook/a2e0938b-e1a5-45e4-9977-328283c3d310
