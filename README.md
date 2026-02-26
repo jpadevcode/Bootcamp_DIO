@@ -6,7 +6,5 @@
 ---
 
 ### 🔗 Link do Desafio
-[Acesse aqui, o Notebook da atividade](https://notebooklm.google.com/notebook/a2e0938b-e1a5-45e4-9977-328283c3d310)
 
-Ou copie o link abaixo:
-https://notebooklm.google.com/notebook/a2e0938b-e1a5-45e4-9977-328283c3d310
+Acesse AQIO, o Notebook da Atividade: https://notebooklm.google.com/notebook/a2e0938b-e1a5-45e4-9977-328283c3d310
