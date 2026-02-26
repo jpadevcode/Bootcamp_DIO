@@ -1,8 +1,7 @@
 # BOOTCAMP | Riachuelo - Cibersegurança | DIO
 
 ## 🚀 Desafio de Projeto
-**Acelere sua aprendizagem com IA:**  
-Explore o poder do **NotebookLM**
+**Acelere sua aprendizagem com IA:** Explore o poder do **NotebookLM**
 
 ---
 
